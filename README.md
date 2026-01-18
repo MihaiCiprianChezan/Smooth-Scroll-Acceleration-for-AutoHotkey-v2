@@ -56,12 +56,12 @@ All other mouse and system functions remain unchanged.
 
 ## Usage
 
-Download the Windows binary release Smooth-Scroll-Acceleration-for-AutoHotkey-v2
+Download the Windows 64 binary release [Smooth-Scroll-Acceleration-for-AutoHotkey-v2](https://github.com/MihaiCiprianChezan/Smooth-Scroll-Acceleration-for-AutoHotkey-v2/releases/tag/v2.0.1)
 
 ## Build yourself
 
 1. Install [AutoHotkey v2](https://www.autohotkey.com/)  
-2. Load `SmoothScroll.ahk`  
+2. Load `Smooth-Scroll-Acceleration.ahk`  
 3. Run it  
 4. Adjust the tuning constants to match your preferred scrolling feel
 5. Generate your own executable
