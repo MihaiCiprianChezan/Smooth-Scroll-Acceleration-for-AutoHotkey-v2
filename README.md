@@ -1,3 +1,5 @@
+![](./Images/Mouse.jpg)
+
 # Smooth Scroll Acceleration for Windows 11
 ### *Physics-based smooth scroll with momentum and acceleration — works across all applications and all monitors*
 
